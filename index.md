@@ -2,20 +2,21 @@
 ---
 ![Myself](pictures/me.jpg)
 > I really don't have a quote for quote.
+
 ## **Directory**
 ---
-  - [**About Me**](#About_Me)
-  - [**Stuff I do**](#Stuff_I_do)
-  - [**Coding Project**](#Coding_Project)
-  - [**CheckList For this Task**](#CheckList_For_this_Task)
+  - [**About Me**](#about-me)
+  - [**Stuff I do**](#stuff-i-do)
+  - [**Coding Project**](#coding-project)
+  - [**CheckList For this Task**](#checkList-for-this-task)
 
-## **About_Me**
+### **About Me**
 Hello, I am an enthusiastic in both Hardware and Software Engineering. Who studied too much EE last year and really need to catch up with programing stuff.
 
 [Check out my Website](https://han-zhang.cn)
 
 [*If my website didn't work this is a external link direct to google for testing purposes*](https://google.com)
-## **Stuff_I_do**
+### **Stuff I do**
 ![Racecar](pictures/picture.png)
 - Basically building this for the last 2 years
 
@@ -29,7 +30,7 @@ Hello, I am an enthusiastic in both Hardware and Software Engineering. Who studi
 3. *Leadership/Communication Skill*
    - Admin in UCSD Triton Racing to organize and lead projects for building a race car.
 
-### Coding_Project
+### Coding Project
 --- an old highschool project to recreate PAC-MAN, only one of the function shown.
 
 ```
@@ -49,7 +50,7 @@ def color_detection(x, y, bg):
     return returned
 ```
 
-## **CheckList_For_this_Task**
+### **CheckList For this Task**
 ---
 
 - [x] Pictures
