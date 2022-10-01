@@ -3,10 +3,10 @@
 > I really don't have a quote for quote.
 ## **Directory**
 ---
-  - [**About_Me**](#About Me)
-  - [**Stuff_I_do**](#Stuff I do)
-  - [**Coding_Project**](#Coding Project)
-  - [**CheckList_For_this_Task**](#CheckList For this Task)
+  - [**About Me**](#About_Me)
+  - [**Stuff_I_do**](#Stuff_I_do)
+  - [**Coding Project**](#Coding_Project)
+  - [**CheckList For this Task**](#CheckList_For_this_Task)
 
 ## **About_Me**
 Hello, I am an enthusiastic in both Hardware and Software Engineering. Who studied too much EE last year and really need to catch up with programing stuff.
