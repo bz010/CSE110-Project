@@ -12,7 +12,7 @@
 Hello, I am an enthusiastic in both Hardware and Software Engineering. Who studied too much EE last year and really need to catch up with programing stuff.
 
 [Check out my Website](https://han-zhang.cn)
-
+[#If my website didn't work this will direct to google for testing purposes#](https://google.com)
 ## **Stuff_I_do**
 ![pictures](pictures/picture.png)
 - Basically building this for the last 2 years
