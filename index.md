@@ -2,7 +2,7 @@
 ---
 ## **Directory**
 ---
-  - [**About Me***](#About Me*)
+  - [**About Me**](#About Me)
   - [**Stuff I do**](#Stuff I do)
   - [**Coding Project**](#Coding Project)
   - [**CheckList For this Task**](#CheckList For this Task)
