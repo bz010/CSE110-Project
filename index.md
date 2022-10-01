@@ -1,16 +1,17 @@
 # Ben Zhang
 ---
+> I really don't have a quote for quote.
 ## **Directory**
 ---
-  - [**About Me**](#About Me)
-  - [**Stuff I do**](#Stuff I do)
-  - [**Coding Project**](#Coding Project)
-  - [**CheckList For this Task**](#CheckList For this Task)
+  - [**About_Me**](#About Me)
+  - [**Stuff_I_do**](#Stuff I do)
+  - [**Coding_Project**](#Coding Project)
+  - [**CheckList_For_this_Task**](#CheckList For this Task)
 
-## **About Me**
+## **About_Me**
 Hello, I am an enthusiastic in both Hardware and Software Engineering. Who studied too much EE last year and really need to catch up with programing stuff.
 
-## **Stuff I do**
+## **Stuff_I_do**
 ![pictures](pictures/picture.png)
 - Basically building this for the last 2 years
 
@@ -24,7 +25,7 @@ Hello, I am an enthusiastic in both Hardware and Software Engineering. Who studi
 3. *Leadership/Communication Skill*
    - Admin in UCSD Triton Racing to organize and lead projects for building a race car.
 
-### Coding Project
+### Coding_Project
 --- an old highschool project to recreate PAC-MAN, only one of the function shown.
 
 ```
@@ -44,7 +45,7 @@ def color_detection(x, y, bg):
     return returned
 ```
 
-## **CheckList For this Task**
+## **CheckList_For_this_Task**
 ---
 - [x] Pictures
 - [x] Headings
