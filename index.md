@@ -1,6 +1,6 @@
 # Ben Zhang
 ---
-![pictures](pictures/me.jpg){height=50%}
+![Myself](pictures/me.jpg)
 > I really don't have a quote for quote.
 ## **Directory**
 ---
@@ -16,7 +16,7 @@ Hello, I am an enthusiastic in both Hardware and Software Engineering. Who studi
 
 [*If my website didn't work this is a external link direct to google for testing purposes*](https://google.com)
 ## **Stuff_I_do**
-![pictures](pictures/picture.png)
+![Racecar](pictures/picture.png)
 - Basically building this for the last 2 years
 
 1. *Mechanic Skills*
