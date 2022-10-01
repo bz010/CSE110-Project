@@ -1,6 +1,6 @@
 # Ben Zhang
 ---
-![pictures](pictures/me.jpg)
+![pictures](pictures/me.jpg =156x227)
 > I really don't have a quote for quote.
 ## **Directory**
 ---
