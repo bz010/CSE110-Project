@@ -1,17 +1,22 @@
 # Ben Zhang
 ---
+![Myself](pictures/me.jpg)
+> I really don't have a quote for quote.
 ## **Directory**
 ---
-  - [**About Me**](#About Me)
-  - [**Stuff I do**](#Stuff I do)
-  - [**Coding Project**](#Coding Project)
-  - [**CheckList For this Task**](#CheckList For this Task)
+  - [**About Me**](#About_Me)
+  - [**Stuff I do**](#Stuff_I_do)
+  - [**Coding Project**](#Coding_Project)
+  - [**CheckList For this Task**](#CheckList_For_this_Task)
 
-## **About Me**
+## **About_Me**
 Hello, I am an enthusiastic in both Hardware and Software Engineering. Who studied too much EE last year and really need to catch up with programing stuff.
 
-## **Stuff I do**
-![pictures](pictures/picture.png)
+[Check out my Website](https://han-zhang.cn)
+
+[*If my website didn't work this is a external link direct to google for testing purposes*](https://google.com)
+## **Stuff_I_do**
+![Racecar](pictures/picture.png)
 - Basically building this for the last 2 years
 
 1. *Mechanic Skills*
@@ -24,7 +29,7 @@ Hello, I am an enthusiastic in both Hardware and Software Engineering. Who studi
 3. *Leadership/Communication Skill*
    - Admin in UCSD Triton Racing to organize and lead projects for building a race car.
 
-### Coding Project
+### Coding_Project
 --- an old highschool project to recreate PAC-MAN, only one of the function shown.
 
 ```
@@ -44,8 +49,9 @@ def color_detection(x, y, bg):
     return returned
 ```
 
-## **CheckList For this Task**
+## **CheckList_For_this_Task**
 ---
+
 - [x] Pictures
 - [x] Headings
 - [x] Styling text
@@ -56,3 +62,4 @@ def color_detection(x, y, bg):
 - [x] Relative links 
 - [x] Ordered and Unordered Lists
 - [x] Task lists
+- [ ] I hope I didn't miss something
